@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "Great stream",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "another awesome string",
+      "id": 2
+    },
+    {
+      "title": "i created this stream",
+      "description": "This was made by me",
+      "userId": "107434034183014294381",
+      "id": 3
+    },
+    {
+      "title": "Unexpected behavior",
+      "description": "WHAT!!??",
+      "userId": "107434034183014294381",
+      "id": 4
+    },
+    {
+      "title": "Programatic Nav",
+      "description": "Navigate to all streams and nothing more again with patch",
+      "userId": "107434034183014294381",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Lets refactor",
+      "userId": "107434034183014294381",
+      "id": 6
+    }
+  ]
+}
